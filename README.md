@@ -27,19 +27,6 @@
 
 <br>
 
-📁 **Top Projects:**
-<p float="left"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=megamp15&repo=LotteryInformationDownloader&show_icons=true&theme=vue-dark" alt="megamp15" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pbrown801&repo=aggienova-templates&show_icons=true&theme=vue-dark" alt="megamp15" /> 
-</p>
-<p float="left">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=megamp15&repo=ImbalancedMNISTData&show_icons=true&theme=vue-dark" alt="megamp15" /> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=megamp15&repo=Cache-Simulator&show_icons=true&theme=vue-dark" alt="megamp15" /> 
-</p>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rynbhuiya&repo=DiscordBotContest&show_icons=true&theme=vue-dark" alt="megamp15" /> 
-
-<br>
-
 ---
 
 [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) used.
