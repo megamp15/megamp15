@@ -1,16 +1,45 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**megamp15/megamp15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm [Mahir](https://www.mahirp.ml/), a senior computer science student at Texas A&M University.
 
-Here are some ideas to get you started:
+👨🏽‍💻 **Current Positions:**
+- 🎇 Software Developer - Team Lead and Student Assistant Researcher for Aggienova Supernovae Research
+- 📱 Android Developer - Texas A&M University in partnership with NowSecure and Bespin - U.S. Air Force
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+😃 **Enthusiastic about:**
+- 💻 Solving Real World Problems through Software!
+- 👾 Machine Learning
+- ⏳ Automation
+- 🌌 Astronomy
+- 📝 [Resume](https://drive.google.com/file/d/16nzKKCQQ68a2-BrvGsUpg9CF7iC2xDYP/view)
+
+<br>
+
+🔨 **Languages:**  
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megamp15&layout=compact&theme=vue-dark&hide_title=true&hide=jupyter%20notebook&langs_count=10" alt="megamp15" /> 
+
+<br>
+
+📈 **My GitHub Stats:**
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=megamp15&show_icons=true&theme=vue-dark&hide_title=true" alt="megamp15" />
+
+<br>
+
+📁 **Top Projects:**
+<p float="left"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=megamp15&repo=LotteryInformationDownloader&show_icons=true&theme=vue-dark" alt="megamp15" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pbrown801&repo=aggienova-templates&show_icons=true&theme=vue-dark" alt="megamp15" /> 
+</p>
+<p float="left">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=megamp15&repo=ImbalancedMNISTData&show_icons=true&theme=vue-dark" alt="megamp15" /> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=megamp15&repo=Cache-Simulator&show_icons=true&theme=vue-dark" alt="megamp15" /> 
+</p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rynbhuiya&repo=DiscordBotContest&show_icons=true&theme=vue-dark" alt="megamp15" /> 
+
+<br>
+
+---
+
+[Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) used.
