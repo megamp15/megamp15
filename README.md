@@ -2,7 +2,10 @@
 
 ### I'm [Mahir](https://www.mahirp.ml/), a senior computer science student at Texas A&M University.
 
-👨🏽‍💻 **Current Positions:**
+👨🏽‍💻 **Current Position: **
+- Software Developer Intern for Digital Core Team at The Ismaili Council for USA
+
+ **Experience:**
 - 🎇 Software Developer - Team Lead and Student Assistant Researcher for Aggienova Supernovae Research
 - 📱 Android Developer - Texas A&M University in partnership with NowSecure and Bespin - U.S. Air Force
 
@@ -13,7 +16,7 @@
 - 👾 Machine Learning
 - ⏳ Automation
 - 🌌 Astronomy
-- 📝 [Resume](https://drive.google.com/file/d/16nzKKCQQ68a2-BrvGsUpg9CF7iC2xDYP/view)
+- 📝 [Resume](https://drive.google.com/file/d/10zJMs7R3DyWy_iX2kfeAH28CkQl1xdsD/view?usp=sharing)
 
 <br>
 
