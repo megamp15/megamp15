@@ -2,10 +2,10 @@
 
 ### I'm [Mahir](https://www.mahirp.ml/), a senior computer science student at Texas A&M University.
 
-👨🏽‍💻 **Current Position: **
+👨🏽‍💻 **Current Position:**
 - Software Developer Intern for Digital Core Team at The Ismaili Council for USA
 
- **Experience:**
+ **Work Experiences:**
 - 🎇 Software Developer - Team Lead and Student Assistant Researcher for Aggienova Supernovae Research
 - 📱 Android Developer - Texas A&M University in partnership with NowSecure and Bespin - U.S. Air Force
 
