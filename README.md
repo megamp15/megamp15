@@ -1,11 +1,12 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### I'm [Mahir](https://www.mahirp.ml/), a senior computer science student at Texas A&M University.
+### I'm [Mahir](https://www.mahirp.ml/), a recent graduate of Texas A&M University. 
 
  **Work Experiences:**
+- 👨‍💻 Software Developer Intern for the Digital Core Team at The Ismaili Council for USA
 - 🎇 Software Developer - Team Lead and Student Assistant Researcher for Aggienova Supernovae Research
 - 📱 Android Developer - Texas A&M University in partnership with NowSecure and Bespin - U.S. Air Force
-- Software Developer Intern for Digital Core Team at The Ismaili Council for USA
+- 🖥️ Software Developer for Zbottomline, LLC. 
 
 <br>
 
@@ -14,7 +15,7 @@
 - 👾 Machine Learning
 - ⏳ Automation
 - 🌌 Astronomy
-- 📝 [Resume](https://drive.google.com/file/d/10zJMs7R3DyWy_iX2kfeAH28CkQl1xdsD/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/19fGKRwfIdB0Gfxv5E3ywzh60E2IwiwB8/view?usp=sharing)
 
 <br>
 
@@ -28,6 +29,4 @@
 
 <br>
 
----
-
-[Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) used.
+Credits to [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
