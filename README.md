@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### I'm [Mahir](https://www.mahirp.ml/), a recent graduate of Texas A&M University. 
+### I'm Mahir, a consultant at Pariveda Solutions. 
 
  **Work Experiences:**
 - 👨‍💻 Software Developer Intern for the Digital Core Team at The Ismaili Council for USA
