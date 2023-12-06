@@ -25,9 +25,4 @@
 
 <br>
 
-📈 **My GitHub Stats:**
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=megamp15&show_icons=true&theme=vue-dark&hide_title=true" alt="megamp15" />
-
-<br>
-
 Credits to [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
