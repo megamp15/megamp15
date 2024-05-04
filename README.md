@@ -16,7 +16,6 @@
 - 👾 Machine Learning
 - ⏳ Automation
 - 🌌 Astronomy
-- 📝 [Resume](https://drive.google.com/file/d/19fGKRwfIdB0Gfxv5E3ywzh60E2IwiwB8/view?usp=sharing)
 
 <br>
 
