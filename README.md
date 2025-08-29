@@ -4,6 +4,7 @@
 
  **Work Experiences:**
 - 💼 Software Engineering Consultant II at Pariveda Solutions
+- 👾 Artificial Intelligence Intern for AI Sports Card Grading at Drexel University 
 - 👨‍💻 Software Developer Intern for the Digital Core Team at The Ismaili Council for USA
 - 🎇 Software Developer - Team Lead and Student Assistant Researcher for Aggienova Supernovae Research
 - 📱 Android Developer - Texas A&M University in partnership with NowSecure and Bespin - U.S. Air Force
